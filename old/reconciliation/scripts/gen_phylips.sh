@@ -1,0 +1,17 @@
+./prepare_phylip.py -i ../considered_data/Borowiec2015/Best108.nex -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Borowiec2015/Total1080.nex -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Chang2015/Chang2015.nex -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Dunn2008/Dunn2008.nex -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Hejnol2009/Hejnol2009.nex -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Moroz2014/3d.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Nosenko2013/nonribo_9187.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Nosenko2013/ribo_11057.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Nosenko2013/ribo_14615.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Philippe2009/Philippe2009.nex -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Ryan2013/est.nex -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Simion2017/Simion2017.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Whelan2015/D10.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Whelan2015/D1.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Whelan2015/D20.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Whelan2017/full.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
+./prepare_phylip.py -i ../considered_data/Whelan2017/strict.phy -o ../../data_processed/matrices/ -t ../taxonomy_info/taxon_table.tsv
